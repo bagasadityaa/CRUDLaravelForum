@@ -1,6 +1,14 @@
 # Laravel Forum Berita CRUD
 Hai! Project CRUD Laravel Forum Berita ini adalah aplikasi forum berita sederhana yang dibuat dengan menggunakan framework Laravel. Aplikasi ini memiliki fitur CRUD (Create, Read, Update, Delete) untuk berita pada forum.
 
+## Fitur Utama
+Aplikasi CRUD ini memiliki fitur utama sebagai berikut: 
+1. Menampilkan daftar berita pada forum
+2. Menampilkan detail berita.
+3. Membuat berita baru.
+4. Mengedit berita yang sudah ada
+5. Menghapus berita 
+
 ## Getting Started
 Untuk menjalankan aplikasi ini, pastikan komputer anda terinstal PHP 8.0, MySQL, dan Composer. Lakukan langkah-langkah berikut untuk menginstal aplikasi:
 1. Clone repositori ini ke komputer Anda dengan menjalankan perintah berikut di terminal: 
@@ -47,14 +55,6 @@ php artisan migrate
 php artisan serve
 ```
 aplikasi akan berjalan di 'http://localhost:8000'
-
-## Fitur Utama
-Aplikasi CRUD ini memiliki fitur utama sebagai berikut: 
-1. Menampilkan daftar berita pada forum
-2. Menampilkan detail berita.
-3. Membuat berita baru.
-4. Mengedit berita yang sudah ada
-5. Menghapus berita 
 
 ## Kontak
 Bagas Aditya - [@bagas_adtyaa](https://www.instagram.com/bagas_adtyaa/)
