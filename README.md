@@ -14,7 +14,7 @@ Untuk menjalankan aplikasi ini, pastikan komputer anda terinstal PHP 8.0, MySQL,
 1. Clone repositori ini ke komputer Anda dengan menjalankan perintah berikut di terminal: 
 * git 
 ```sh
-git clone github.com/bagasadityaa/CRUDUserAndroidStudioJava.git
+git clone github.com/bagasadityaa/CRUDLaravelForum.git
 ```
 
 2. Masuk ke direktori aplikasi dengan menjalankan perintah berikut di terminal:
